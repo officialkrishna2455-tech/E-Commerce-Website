@@ -11,7 +11,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-FFCA28?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 
 <p align="center">
-  <strong>A blazing-fast, modern e-commerce platform built with cutting-edge technologies for the 2025 retail landscape.</strong>
+  <strong>A blazing-fast, modern e-commerce platform built with cutting-edge technologies for the 2026 retail landscape.</strong>
 </p>
 
 [Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
